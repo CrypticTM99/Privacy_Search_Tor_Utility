@@ -1,0 +1,5 @@
+requests
+dns-over-https
+pyotp
+psutil
+schedule

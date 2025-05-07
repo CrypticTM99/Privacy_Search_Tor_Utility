@@ -1,0 +1,5 @@
+{
+  "dns_provider": "cloudflare",
+  "malware_api_key": "YOUR_VIRUSTOTAL_API_KEY",
+  "tor_exit_node_country": "US"
+}
