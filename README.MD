@@ -22,4 +22,6 @@ A privacy-focused browser utility that integrates:
 pip install PySide6 stem requests
 
 
+Make sure to install the Tor Browser prior to starting the Privacy_Search_Tor_Utility 
+
 Created by Crypticwisdom99 / CrypticTM
